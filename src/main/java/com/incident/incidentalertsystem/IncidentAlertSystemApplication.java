@@ -9,5 +9,4 @@ public class IncidentAlertSystemApplication {
     public static void main(String[] args) {
         SpringApplication.run(IncidentAlertSystemApplication.class, args);
     }
-
 }

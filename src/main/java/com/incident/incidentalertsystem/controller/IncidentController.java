@@ -7,7 +7,7 @@ import com.incident.incidentalertsystem.service.IncidentService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-
+// @RestController
 @RestController
 @RequestMapping("/api/incidents")
 @CrossOrigin
